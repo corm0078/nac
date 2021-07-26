@@ -1,1 +1,2 @@
-# fullscript
+www.martinecormier.ca
+martinecormier.ca
